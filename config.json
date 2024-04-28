@@ -17,23 +17,23 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61552611621933",
-    "100058415170590",
-    "61550569314004",
-    "100094547994769",
-    "100065176818341",
-    "100043895143106",
-    "61550033226671",
-    "100087513362848",
-    "100095091623070",
-    "61554300204256"
+    "100073697385748",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "TAKLU BABU",
+  "nickNameBot": "LINU🤗",
   "prefix": "#",
   "database": {
     "type": "sqlite",
